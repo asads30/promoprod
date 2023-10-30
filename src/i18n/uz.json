@@ -1,0 +1,142 @@
+{
+    "stock": "Aksiya",
+    "preloader": "Ma'lumotlar yuklanmoqda…",
+    "preloader2": "Bir zumda tayyor bo'ladi!",
+    "video": {
+        "video": "Video",
+        "video1": "Click aksiyasining yakuniy yutuqli o'yini!"
+    },
+    "modal": {
+        "title": "Tabriklaymiz!",
+        "title2": "Siz aksiyamiz ishtirokchisiga",
+        "title3": "aylandingiz!",
+        "des": "Sizda asosiy sovrinlar yutuqli o'yinida ishtirok etishga 2 imkoniyat bor",
+        "des2": "Sizda asosiy sovrinlar yutuqli o'yinida ishtirok etishga 1 imkoniyat bor",
+        "done": "Ajoyib",
+        "notscore": {
+            "title": "Omadingizni yana bir bor sinab ko'rishni xohlaysizmi?",
+            "des": "Promokodingiz bo'yicha do'stlaringizni taklif qiling va siz +1 imkoniyat, hamda g'ildirakni aylantirishga +1 imkoniyatni qo'lga kiritasiz"
+        }
+    },
+    "startModalSurvey": {
+        "title": "Clickdan yangi aksiya",
+        "description": "Bizning jamoamiz siz uchun yangi aksiya tayyorlamoqda. Savollarimizga javob berish uchun 2 daqiqa vaqt ajrating. Sizning fikringiz biz uchun juda muhim",
+        "btnName": "Boshlash"
+    },
+    "completeModalSurvey": {
+        "title": "E'tiboringiz uchun rahmat!",
+        "description": "So'rovnomada qatnashganingiz uchun tashakkur! Biz sizning fikringizni qadrlaymiz va bizga vaqt ajratganingizdan xursandmiz.",
+        "btnName": "Yopish"
+    },
+    "survey": {
+        "header_title": "Click Aksiya",
+        "question": "Savol",
+        "stepBtn": "Davom etish",
+        "lastBtn": "Yakunlash"
+    },
+    "home": {
+        "home1": "Siz aksiya ishtirokchisisiz",
+        "home2": "Mening sovrinlarim",
+        "home3": "Asosiy sovrinlar yutuqli",
+        "home3-2" : "o'yinidagi imkoniyatlar",
+        "home4": "Asosiy sovrinlar",
+        "home5": "Batafsil",
+        "home6": "Supersovrin",
+        "home7": "Do'stlaringizni taklif qiling va g'olib bo'lishga",
+        "home7-2": "imkoniyatlaringizni ko'paytiring",
+        "home8": "Do'stni taklif qilish",
+        "home9": "Omadni sinab ko'rish",
+        "home10": "Aksiya yakunlandi",
+        "home11": "Yangi aksiya va tadbirlar haqida bilish uchun rasmiy sahifalarimizga obuna bo’ling",
+        "home14": "G'oliblarini bilish",
+        "live": "Jonli efir"
+    },
+    "start": {
+        "start1": "Aksiya yakunlandi",
+        "start2": "Yangi aksiya va tadbirlar haqida bilish uchun rasmiy sahifalarimizga obuna bo’ling",
+        "start3": "Aksiya g'oliblarini bilish",
+        "offer": "Ommaviy oferta"
+    },
+    "chances": {
+        "chance1": "Umumiy soni",
+        "chance2": "Bu yerda asosiy sovrinlar yutuqli o'yinidagi barcha imkoniyatlaringiz saqlanadi. Imkoniyatlaringizni ko'paytirish uchun do'stlaringizni taklif qiling!",
+        "chance3": "Mening imkoniyatlarim",
+        "search": "Imkoniyatlarni izlash",
+        "search2": "Izlash"
+    },
+    "ident": {
+        "ident1": "Aksiya yakunlandi",
+        "ident2": "Agar siz tafsilotlarni bilmoqchi bo'lsangiz, Click-da identifikatsiyadan o'tishingiz kerak",
+        "ident3": "Identifikatsiyani boshlash"
+    },
+    "prizes": {
+        "prize1": "Promokod",
+        "prize2": "Sovg'a ma'lumoti",
+        "more": "Yana yuklash",
+        "prize3": "Скопировать",
+        "yandex": "Yandex Stantsiya",
+        "prize4": "Bosh sahifaga",
+        "not": "Siz hali sovrinlarga ega emassiz. Kafolatlangan sovrinni qo'lga kiritish uchun omad g'ildiragini aylantiring, shuningdek, asosiy sovrinlardan birini qo'lga kiritish uchun imkoniyatlarni to'plang!",
+        "chances": "Imkoniyatlar",
+        "prizes": "Sovrinlar"
+    },
+    "referall": {
+        "title": "Mening takliflarim",
+        "btn1": "Taklif qilish",
+        "ref1": "Do'stlaringizni taklif qiling - g'olib bo'lishga imkoniyatlaringizni ko'paytiring.",
+        "ref2": "Agar do'stingiz promokodingizni kiritsa, siz qatnashishga +1 imkoniyatni va omad g'ildiragini qo'shimcha aylantirish imkoniyatini qo'lga kiritasiz. Do'stingiz esa qatnashishga +2 imkoniyatni va omad g'ildiragini qo'shimcha 2 marta aylantirish imkoniyatini qo'lga kiritadi.",
+        "ref3": "Sizning taklif kodingiz",
+        "ref4": "Выделить",
+        "ref5": "Do'stingizni taklif qiling",
+        "ref6": "Вы пригласили",
+        "ref7": "пользователей",
+        "ref8": "Promokodni do'stingizga yuborish uchun ajrating va nusxalang",
+        "not": "Bu yerda siz taklif qilgan do'stlar aks ettiriladi.",
+        "push": "Takliflar haqida xabarnoma",
+        "push2": "Siz do'stingizni muvaffaqiyatli taklif qildingiz! Endilikda sizda aksiyada qatnashish uchun +1 imkoniyat va omad g'ildiragini aylantirish imkoniyati mavjud!"
+    },
+    "super": {
+        "title": "Asosiy sovrinlar",
+        "des": "Asosiy sovrinlar yutuqli o'yini har 2 haftada jonli efirda barcha ishtirokchilar o'rtasida tasodifiy sonlar generatori yordamida o'tkaziladi. Aksiyaning 8-haftasida supersovrin - BYD avtomobili yutuqli o'yini o'tkaziladi."
+    },
+    "winners": {
+        "title": "G'oliblar",
+        "des": "Click Aksiya g'oliblarini tabriklaymiz",
+        "win1": "Aksiyasining yakuniy yutuqli o'yini",
+        "win2": "Yutuqli o'yinining 3-bosqichi",
+        "win3": "Yutuqli o'yinining 2-bosqichi",
+        "win4": "Yutuqli o'yinining 1-bosqichi",
+        "name": "Ism",
+        "prize": "Mukofot",
+        "chance": "Imkoniyat raqami"
+    },
+    "wheel": {
+        "title": "Omad g'ildiragi",
+        "title2": "Omad g'ildiragini aylantiring va kafolatlangan sovrinlarni qo'lga kiriting!",
+        "des": "Siz g'ildirakni haftasiga bir marta, hamda har safar do'stlaringiz sizning promokodingiz bo'yicha ro'yxatdan o'tganda aylantirishingiz mumkin. ",
+        "modal1": "Вы практически выиграли!",
+        "modal2": "шансов на участие<br />в розыгрыше основных призов",
+        "modal3": "Sovrinni olish",
+        "modal4": "Tabriklaymiz! Siz qo'lga kiritingiz!",
+        "modal5": "Ничего себе! Ваши шансы удвоены!",
+        "modal6": "2Х всех имеющихся шансов на участие в розыгрыше основных призов",
+        "modal7": "5000 сум на ваш <br />Click-кошелек",
+        "modal8": "Промокод от<br /> Uzum Market",
+        "modal9": "Теперь у вас еще больше шансов на участие!",
+        "modal10": "Бесплатную Premium-подписку<br />на 30 дней",
+        "modal11": "У вас еще один шанс на победу!",
+        "modal12": "Сектор «Крутить заново»",
+        "modal13": "У вас есть возможность покрутить колесо еще раз!",
+        "info": "Omad g'ildiragi haqida",
+		"prize1": "Qatnashishga<br />imkoniyat",
+		"prize2": "«Uzum Market»<br />dan sovg'a",
+		"prize3": "30 kunga<br />Premium-obuna",
+		"prize4": "qayta<br />aylantirish",
+		"prize5": "Hamkorlardan<br />sovg'alar",
+		"prize6": "Click-hamyonga<br />5000 so'm",
+		"prize7": "Barcha<br />imkoniyatlar<br />uchun",
+        "spin": "Aylantirish",
+        "spin_again": "Yana aylantiring",
+        "error": "Xato yuz berdi, iltimos, keyinroq harakat qilib ko'ring"
+    }
+}
